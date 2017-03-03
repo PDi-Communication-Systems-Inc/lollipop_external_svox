@@ -12,6 +12,7 @@ LOCAL_SRC_FILES := \
 
 LOCAL_JNI_SHARED_LIBRARIES := libttscompat libttspico
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
+LOCAL_CERTIFICATE := platform
 
 include $(BUILD_PACKAGE)
 
