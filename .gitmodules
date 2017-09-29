@@ -1,0 +1,4 @@
+[submodule "google_svox"]
+	path = google_svox
+	url = https://android.googlesource.com/platform/external/svox
+	branch = lollipop-release
